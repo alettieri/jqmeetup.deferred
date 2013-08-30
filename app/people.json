@@ -1,13 +1,19 @@
 {
     "people":[
         {
-            "name": "Henry"
+            "name": "Henry Cool"
         }, 
         {
-            "name": "Lisa"
+            "name": "Lisa Sweet"
         },
         {
-            "name": "Erick"
+            "name": "Erick Awesome"
+        },
+        {
+            "name": "Laura Smart"
+        },
+        {
+            "name": "Frank Tank"
         }
     ]
 }
